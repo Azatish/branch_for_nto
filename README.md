@@ -10,6 +10,13 @@ $ chmod +x stegsolve.jar
 $ mkdir bin
 $ mv stegsolve.jar bin/
 ```
+sudo apt-get install testdisk ```photorec```
+
+sudo apt-get install foremost ```foremost```
+
+https://ctframework.com/forensics-tools/
+
+```git clone --recurse-submodules https://github.com/simsong/bulk_extractor.git && ./bootstrap.sh && ./configure && make && make install```
 
 pwn:
 https://docs.pwntools.com/en/stable/intro.html
